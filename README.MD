@@ -12,11 +12,10 @@ This project deals with building a movie recommendation system from scratch usin
 
 **Steps:**
 
-- Data Preprocessing: Data has been cleaned to remove any special characters that may hamper the quality of the recommendations
+- **Data Preprocessing:** Data has been cleaned to remove any special characters that may hamper the quality of the recommendations
 
-- Search Engine: Efficient search in the huge dataset has been ensured by building a search engine that takes as input a movie name and returns the top 5 movie names with a similar title
+- **Search Engine:** Efficient search in the huge dataset has been ensured by building a search engine that takes as input a movie name and returns the top 5 movie names with a similar title
 
-- Recommendation Engine: Utlising the concept of user based collaborative filtering, top recommendaztions are found using those movies that people similar to the user have liked.
+- **Recommendation Engine:** Utilizing the concept of user based collaborative filtering, top recommendations are found using those movies that people similar to the user have liked.
 
-- Interactivity: To take it one step further and ensure that results are being returned in real time for users, both the search engine and the recommendation system have been wrapped into an interactive widget.
-                 Thus the output is dynamic allowing for an enhanced user experience.
+- **Interactivity:** To take it one step further and ensure that results are being returned in real time for users, both the search engine and the recommendation system have been wrapped into an interactive widget. Thus, the output is dynamic allowing for an enhanced user experience.
