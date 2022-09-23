@@ -3,10 +3,12 @@
 This project deals with building a movie recommendation system from scratch using user based collaborative filtering.
 
 **Dataset used:** Movielens 25m 
-**Description of dataset:** - It describes 5-star rating and free-text tagging activity from MovieLens, a movie recommendation service. 
-                        - It contains 25000095 ratings and 1093360 tag applications across 62423 movies. 
-                        - These data were created by 162541 users between January 09, 1995 and November 21, 2019. 
-                        - This dataset was generated on November 21, 2019.
+
+**Description of dataset:** 
+  - It describes 5-star rating and free-text tagging activity from MovieLens, a movie recommendation service. 
+  - It contains 25000095 ratings and 1093360 tag applications across 62423 movies. 
+  - These data were created by 162541 users between January 09, 1995 and November 21, 2019. 
+  - This dataset was generated on November 21, 2019.  
 
 **Steps:**
 
