@@ -19,3 +19,12 @@ This project deals with building a movie recommendation system from scratch usin
 - **Recommendation Engine:** Utilizing the concept of user based collaborative filtering, top recommendations are found using those movies that people similar to the user have liked.
 
 - **Interactivity:** To take it one step further and ensure that results are being returned in real time for users, both the search engine and the recommendation system have been wrapped into an interactive widget. Thus, the output is dynamic allowing for an enhanced user experience.
+
+# Screenshots from the app
+
+**Search Engine:**
+![image](https://user-images.githubusercontent.com/35634210/192873894-21bac6a0-8532-42c6-8753-8d30db5b9c01.png)
+
+**Recommendation System:**
+1. ![image](https://user-images.githubusercontent.com/35634210/192874239-08466c2c-5d09-49e2-a55b-b88377eaa29e.png)
+2. ![image](https://user-images.githubusercontent.com/35634210/192874383-95bb277e-bfa5-4416-af92-93ca89fceede.png)
