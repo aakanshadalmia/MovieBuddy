@@ -22,9 +22,12 @@ This project deals with building a movie recommendation system from scratch usin
 
 # Screenshots from the app
 
-**Search Engine:**
+## **Search Engine:**
+
 ![image](https://user-images.githubusercontent.com/35634210/192873894-21bac6a0-8532-42c6-8753-8d30db5b9c01.png)
 
-**Recommendation System:**
-1. ![image](https://user-images.githubusercontent.com/35634210/192874239-08466c2c-5d09-49e2-a55b-b88377eaa29e.png)
-2. ![image](https://user-images.githubusercontent.com/35634210/192874383-95bb277e-bfa5-4416-af92-93ca89fceede.png)
+## **Recommendation System:**
+ 
+![image](https://user-images.githubusercontent.com/35634210/192874239-08466c2c-5d09-49e2-a55b-b88377eaa29e.png)
+
+![image](https://user-images.githubusercontent.com/35634210/192874383-95bb277e-bfa5-4416-af92-93ca89fceede.png)
