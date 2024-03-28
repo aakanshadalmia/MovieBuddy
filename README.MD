@@ -20,6 +20,7 @@ This project deals with building a movie recommendation system from scratch usin
 
 - **Interactivity:** To take it one step further and ensure that results are being returned in real time for users, both the search engine and the recommendation system have been wrapped into an interactive widget. Thus, the output is dynamic allowing for an enhanced user experience.
 
+<https://www.overleaf.com/project/65f88f46b2e74c158c8ce895>
 # Screenshots from the app
 
 ## **Search Engine:**
